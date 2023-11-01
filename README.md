@@ -1,2 +1,2 @@
 # Navin-Rai
-python Developer and Software Daeveloper
+iOS Developer, Watch OS Developer, iPad Developer, Mac Developer, TV OS Developer, Python Developer
